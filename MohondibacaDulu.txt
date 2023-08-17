@@ -1,0 +1,16 @@
+menggunakan port 8000
+aplikasi ada di folder laravelniko
+database di file : laravelniko.sql
+
+run dahulu node.js dengan perintah: npm run dev
+
+untuk login gunakan
+username: niko@gmail.com
+password: nikopurwantoputra
+
+untuk CRUD dilink http://localhost:8000/pegawai
+masih terpisah dengan login
+
+maaf baru mempelajari laravel tadi malem habis tirakatan
+maaf jika aplikasinya kelihatan masih tidak sempurna
+terimaksih
